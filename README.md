@@ -1,6 +1,9 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
-    <h1>Conceitos de Java - Teoria e Prática</h1><img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" width="200">
+    <h1 style="display: flex; align-items: center; justify-content: space-between;">
+      Conceitos de Java - Teoria e Prática
+      <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" width="200">
+    </h1>
     <p>
       <img src="https://img.shields.io/badge/version-1.0-blue" alt="version badge">
       <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="build badge">
@@ -8,6 +11,7 @@
     </p>
   </div>
 </div>
+
 
 ## Sumário
 
