@@ -2,7 +2,7 @@
 
 ## Sumário
 
-1. [Sintaxe Java Básica](sintaxe.Java.ipynb)
+1. [Sintaxe Java Básica](Conteúdo/sintaxe.Java.ipynb)
 2.
 3.
 4.
