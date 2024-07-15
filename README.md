@@ -2,15 +2,19 @@
   <div>
     <h1>Conceitos de Java - Teoria e Prática</h1>
     <p>
-      ![version](https://img.shields.io/badge/version-1.0-blue)
-      ![build](https://img.shields.io/badge/build-passing-brightgreen)
-      ![license](https://img.shields.io/badge/license-MIT-green)
+      <img src="https://img.shields.io/badge/version-1.0-blue" alt="version badge">
+      <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="build badge">
+      <img src="https://img.shields.io/badge/license-MIT-green" alt="license badge">
     </p>
   </div>
   <div>
     <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" width="400">
   </div>
 </div>
+
+![version](https://img.shields.io/badge/version-1.0-blue)
+![build](https://img.shields.io/badge/build-passing-brightgreen)
+![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Sumário
 
