@@ -60,7 +60,7 @@ Navegue até o diretório do projeto:
 cd seu-repositório
 ```
 
-## USO
+## Uso
 
 Abra os notebooks no Jupyter Notebook:
 
