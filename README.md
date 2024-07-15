@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
+  <div style="flex: 1;">
     <h1>Conceitos de Java - Teoria e Prática</h1>
     <p>
       <img src="https://img.shields.io/badge/version-1.0-blue" alt="version badge">
@@ -12,9 +12,6 @@
   </div>
 </div>
 
-![version](https://img.shields.io/badge/version-1.0-blue)
-![build](https://img.shields.io/badge/build-passing-brightgreen)
-![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Sumário
 
