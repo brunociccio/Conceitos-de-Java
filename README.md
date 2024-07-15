@@ -1,5 +1,11 @@
-# Conceitos de Java - Teoria e Prática <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" width="400" align="right">
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1>Conceitos de Java - Teoria e Prática</h1>
+  </div>
+  <div>
+    <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" width="400">
+  </div>
+</div>
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
