@@ -2,7 +2,6 @@
   <div style="flex: 1;">
     <h1 style="display: flex; align-items: center; justify-content: space-between;">
       Conceitos de Java: Teoria e Prática
-      <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" width="200" style="margin-left: auto;">
     </h1>
     <div style-="flex: 2;">
       <img src="https://img.shields.io/badge/version-1.0-blue" alt="version badge">
@@ -50,9 +49,29 @@ Por fim, este conteúdo é uma excelente fonte de referência tanto para inician
 ## Instalação
 
 Clone o repositório:
+
 ```bash
 git clone https://github.com/brunociccio/Conceitos-de-Java.git
 ```
+
+Navegue até o diretório do projeto:
+
+```bash
+cd seu-repositório
+```
+
+## USO
+
+Abra os notebooks no Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
 ## Contribuição
 
 Contribuições são bem-vindas! Por favor, siga os passos abaixo para contribuir:
@@ -64,3 +83,5 @@ Contribuições são bem-vindas! Por favor, siga os passos abaixo para contribui
 - Abra um Pull Request.
 
 ## Créditos
+
+- Bruno Ciccio - Desenvolvedor Full Stack Java
