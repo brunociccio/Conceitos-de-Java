@@ -1,6 +1,5 @@
-# Conceitos de Java - Teoria e Prática
+# Conceitos de Java - Teoria e Prática <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" width="50" align="right">
 
-![Java Logo](https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg)
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
