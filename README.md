@@ -14,7 +14,7 @@
 ## Sumário
 
 1. [Sintaxe Java](Conteúdo/sintaxeJava.ipynb)
-2. 
+2. [Teoria: Testes Tecnicos](Conteúdo/teoriaTestesTecnicos.ipynb)
 3. 
 4. 
 5. 
