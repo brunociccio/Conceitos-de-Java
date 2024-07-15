@@ -7,10 +7,11 @@
       <img src="https://img.shields.io/badge/license-MIT-green" alt="license badge">
     </p>
   </div>
-  <div>
-    <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" width="400">
+  <div style="flex-shrink: 0;">
+    <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" width="150">
   </div>
 </div>
+
 
 
 ## Sumário
